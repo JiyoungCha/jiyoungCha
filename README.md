@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Cha Jiyoung
+# 👋 Hi, I'm Cha
 
 > 제품을 설계하듯 웹을 만듭니다.
 
