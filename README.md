@@ -48,5 +48,10 @@
 ## 🔥 Langs ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyoungCha&layout=compact)
 
-## 🐍 GitHub Snake
-![Snake](https://raw.githubusercontent.com/JiyoungCha/JiyoungCha/output/github-contribution-grid-snake.svg)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=JiyoungCha&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/JiyoungCha"
+  width="600"
+  height="300"
+/>
+</a>
