@@ -49,5 +49,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyoungCha&layout=compact)
 
 ## 🐍 GitHub Snake
-![Snake](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
-
+![Snake](https://raw.githubusercontent.com/JiyoungCha/JiyoungCha/output/github-contribution-grid-snake.svg)
