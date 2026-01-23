@@ -48,5 +48,6 @@
 ## 🔥 Langs ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyoungCha&layout=compact)
 
-## 🐾 My Coding Zoo
-![Lang Zoo](https://github-readme-stats.vercel.app/api/top-langs/?username=JiyoungCha&layout=compact&langs_count=6)
+## 🐍 GitHub Snake
+![Snake](https://github.com/username/username/blob/output/github-contribution-grid-snake.svg)
+
